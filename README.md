@@ -1,6 +1,15 @@
 # Autenticação JWT com Context API e React Router
 
+Desenvolvimento de uma autenticação JWT com rotas protegidas utilizando a Context API nativa do React.
+
 Este projeto utiliza o Create React App e uma API em NodeJS que não demanda nenhum banco de dados.
+
+# Techs
+
+- [x] React
+- [x] React Router
+- [x] Context API
+- [x] NodeJS/Express
 
 ## Instalação
 
