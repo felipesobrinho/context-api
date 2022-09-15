@@ -7,13 +7,13 @@ Este projeto utiliza o Create React App e uma API em NodeJS que não demanda nen
 Você precisará ter o [NodeJS](https://nodejs.org) instalado na sua máquina, e, após isso, clonar este repositório:
 
 ```sh
-  $ git clone https://github.com/maateusilva/youtube-context-api.git
+  $ git clone https://github.com/felipesobrinho/context-api.git
 ```
 
 Depois disso, instale as dependências do Front-end e do Back-end:
 ```sh
-  $ cd youtube-context-api/backend && yarn install # ou npm install
-  $ cd ../starter && yarn install # ou npm install
+  $ yarn install # ou npm install
+  $ yarn install # ou npm install
 ```
 ## Executando a aplicação
 
